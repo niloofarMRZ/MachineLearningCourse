@@ -14,4 +14,6 @@ HW3)logistic regression + gradient ascent + comparison with NB
 
 HW4)soft SVM + non-linear SVM + RBF kernel + polynomial kernel
 
+HW5)k-means + fuzzy c-means
+
 project) MLP neural network on MNIST dataset + learning curve + sigmoid and ReLu activators + adam and SGD optimizers 
